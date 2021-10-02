@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = keon-1@hotmail.co.uk
+	name = Keon White
